@@ -5,9 +5,10 @@ Sou Giulio Garcia, um profissional apaixonado por tecnologia e engenharia, com c
 Criei este repositório para compartilhar um pouco do meu conhecimento e colaborar com projetos da comunidade, fique a vontade para dar sugestões de melhorias nos meus projetos também! abraços!
 
 Minhas habilidades:<br/>
-Python: Conhecimento em bibliotecas como Pandas, Numpy, Logging, Re (Regex), SQLAlchemy, PyHDB, Datetime, OpenCV, Keyring, Sys e Paramiko.<br/>
-SQL: Conhecimento em functions, procedures, gerenciamento de banco de dados Oracle e SAP HANA, extração e modelagem de dados (ETL) utilizando o software IBM SPSS Modeler.<br/>
-Power BI: Desenvolvimento de dashboards interativos que transformam grandes volumes de dados em insights estratégicos para auxílio na tomada de decisão.<br/>
+Python: Bibliotecas como Pandas, Numpy, Logging, Re (Regex), SQLAlchemy, PyHDB, Datetime, OpenCV, Keyring, Sys e Paramiko.<br/>
+SQL: Construção de queries, functions, procedures, gerenciamento de banco de dados Oracle e SAP HANA, extração e modelagem de dados (ETL) utilizando o software IBM SPSS Modeler.<br/>
+Power BI: Desenvolvimento de dashboards interativos que transformam dados em insights estratégicos para auxílio na tomada de decisão.<br/>
+Databricks: Criação de pipelines para processamento e análise de grandes volumes de dados.<br/>
 
 [![My Skills](https://skillicons.dev/icons?i=py,anaconda,azure,opencv,selenium,vscode,mysql)](https://skillicons.dev)
 
