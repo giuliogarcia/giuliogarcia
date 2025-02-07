@@ -1,4 +1,8 @@
-## Hi there 👋
+Oi tudo bem? 👋
+
+Sou Giulio Garcia, um profissional apaixonado por tecnologia e engenharia, com conhecimentos voltados para área de Data Analytics e Data Engineering. Ao longo da minha carreira, desenvolvi projetos voltados a business intelligence, automação de processos, gerenciamento de bancos de dados e visualização de dados. Além disso, utilizo metodologias ágeis como Scrum e Kanban para gerenciamento de projetos.
+
+Criei este repositório para compartilhar um pouco do meu conhecimento e colaborar com projetos da comunidade 
 
 <!--
 **giuliogarcia/giuliogarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
