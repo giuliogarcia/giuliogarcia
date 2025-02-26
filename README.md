@@ -12,12 +12,12 @@ Databricks: Criação de pipelines para processamento e análise de grandes volu
 
 [![My Skills](https://skillicons.dev/icons?i=py,anaconda,azure,opencv,selenium,vscode,mysql)](https://skillicons.dev)
 
-# 📈 GitHub Statistics
+## 📈 GitHub Statistics
 
-## General Statistics
+### General Statistics
 ![General Statistics](https://github-readme-stats.vercel.app/api?username=giuliogarcia&show_icons=true&theme=radical&count_private=true)
 
-## Most Used Languages
+### Most Used Languages
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giuliogarcia&layout=compact&theme=radical)
 
 <!--
