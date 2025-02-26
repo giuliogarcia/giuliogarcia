@@ -12,6 +12,8 @@ Databricks: Criação de pipelines para processamento e análise de grandes volu
 
 [![My Skills](https://skillicons.dev/icons?i=py,anaconda,azure,opencv,selenium,vscode,mysql)](https://skillicons.dev)
 
+https://camo.githubusercontent.com/ab367cd43a3ce57728ebd288418cd58f2beff78b958d198b6c49562b5a4f5cd9/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6769616e76657264756d266c61796f75743d636f6d70616374267468656d653d7261646963616c266c616e67735f636f756e743d36
+
 <!--
 **giuliogarcia/giuliogarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
