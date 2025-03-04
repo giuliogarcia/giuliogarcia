@@ -10,7 +10,7 @@ SQL: Construção de queries, functions, procedures, gerenciamento de banco de d
 Power BI: Desenvolvimento de dashboards interativos que transformam dados em insights estratégicos para auxílio na tomada de decisão.<br/>
 Databricks: Criação de pipelines para processamento e análise de grandes volumes de dados.<br/>
 
-[![My Skills](https://skillicons.dev/icons?i=py,anaconda,azure,opencv,selenium,vscode,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,anaconda,azure,css,git,github,html,js,nodejs,react,sklearn,vite,opencv,selenium,vscode,mysql)](https://skillicons.dev)
 
 ## 📈 GitHub Statistics
 
