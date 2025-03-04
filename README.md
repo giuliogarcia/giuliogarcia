@@ -15,12 +15,10 @@ Databricks: Criação de pipelines para processamento e análise de grandes volu
 ## 📈 GitHub Statistics
 
 ### General Stats
-![General Stats](https://github-readme-stats.vercel.app/api?username=giuliogarcia&show_icons=true&theme=radical&count_private=true)
+![General Stats](https://github-readme-stats.vercel.app/api?username=giuliogarcia&show_icons=true&theme=shadow_red&count_private=true)
 
 ### Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giuliogarcia&langs_count=6&theme=radical&layout=compact)
-
-![radical_repo](https://github-readme-stats.vercel.app/api/pin/?username=giuliogarcia&repo=giuliogarcia&cache_seconds=86400&theme=radical)
 
 <!--
 **giuliogarcia/giuliogarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
