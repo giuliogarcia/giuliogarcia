@@ -20,7 +20,7 @@ Databricks: Criação de pipelines para processamento e análise de grandes volu
 ### Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giuliogarcia&langs_count=6&theme=radical&layout=compact)
 
-`radical` ![radical][radical_repo]
+![radical][radical_repo]
 
 <!--
 **giuliogarcia/giuliogarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
