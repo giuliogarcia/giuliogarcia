@@ -1,14 +1,15 @@
 Oi tudo bem? 👋
 
-Sou Giulio Garcia, um profissional apaixonado por tecnologia e engenharia, com conhecimentos voltados para área de Data Analytics e Data Engineering. Ao longo da minha carreira, desenvolvi projetos voltados a business intelligence, automação de processos, gerenciamento de bancos de dados e visualização de dados. Além disso, utilizo metodologias ágeis como Scrum e Kanban para gerenciamento de projetos.
+Sou Giulio Garcia, um profissional apaixonado pela área de tecnologia e engenharia, com experiência na implementação de soluções em Data Analytics e Business Intelligence. Trabalhei na maior distribuidora de energia elétrica do Brasil (CPFL Energia) onde desenvolvi projetos que integram análise e visualização de dados, criação e manutenção de pipelines ETL, automação de processos e modelagem de grandes volumes de dados, sempre com foco na inovação, eficiência e geração de insights estratégicos que dão suporte para as tomadas de decisões no negócio.
 
-Criei este repositório para compartilhar um pouco do meu conhecimento e colaborar com projetos da comunidade, fique a vontade para dar sugestões de melhorias nos meus projetos também! abraços!
+Criei este repositório para compartilhar alguns projetos pessoais e colaborar com projetos da comunidade, fique a vontade para dar sugestões de melhorias nos meus projetos também! abraços!
 
 Minhas habilidades:<br/>
-Python: Bibliotecas como Pandas, Numpy, Logging, Re (Regex), SQLAlchemy, PyHDB, Datetime, OpenCV, Keyring, Sys e Paramiko.<br/>
-SQL: Construção de queries, functions, procedures, gerenciamento de banco de dados Oracle e SAP HANA, extração e modelagem de dados (ETL) utilizando o software IBM SPSS Modeler.<br/>
+Python: Bibliotecas como Pandas, NumPy, scikit-learn, OpenCV, Datetime, Logging, Sys, Re (Regex), 
+SQLAlchemy, cx_Oracle, Keyring, PyHDB, Plotly, PyAutoGui, Selenium e Playwright.<br/>
+SQL: Construção de queries, functions, gerenciamento de banco de dados Oracle, SAP HANA e SQL Server, extração e modelagem de dados.<br/>
 Power BI: Desenvolvimento de dashboards interativos que transformam dados em insights estratégicos para auxílio na tomada de decisão.<br/>
-Databricks: Criação de pipelines para processamento e análise de grandes volumes de dados.<br/>
+Databricks: Criação de pipelines ETL para processamento e análise de grandes volumes de dados.<br/>
 
 [![My Skills](https://skillicons.dev/icons?i=py,anaconda,git,github,sklearn,opencv,selenium,vscode,mysql)](https://skillicons.dev)
 
